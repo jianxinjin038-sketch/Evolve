@@ -1,0 +1,21 @@
+{
+    "ASD": "spacecraft telemetry data with one second sample rate.",
+    "CalIt2": "sensor data collected from various environments with one second sample rate.",
+    "CICIDS": "network traffic data with a one-second sample rate.",
+    "Creditcard": "credit card transactions with one second sample rate.",
+    "Daphnet": "accelerometer data from Parkinson's disease patients with a 50 Hz sample rate.",
+    "Exathlon": "sensor data from wearable devices with one second sample rate..",
+    "GECCO": "traffic flow data from various urban locations with five minutes sample rate.",
+    "Genesis": "sensor data from an industrial plant with one minute sample rate.",
+    "MSL": "sensor data from a manufacturing plant with one minute sample rate.",
+    "NYC": "traffic flow data from New York City with one minute sample rate.",
+    "PSM": "power system measurements from electrical grids with one second sample rate.",
+    "PUMP": "pump performance data with one minute sample rate.",
+    "SKAB": "sensor data from a smart building with one minute sample rate.",
+    "SMAP": "soil moisture data from a satellite with one day or two days or three days sample rate.",
+    "SMD": "sensor data from industrial machines with one second sample rate.",
+    "SWAN": "sensor data from a water quality monitoring system with one hour sample rate.",
+    "SWAT": "streamflow data from various watersheds with one day sample rate.",
+    "UV": "",
+    "synthetic": ""
+}
