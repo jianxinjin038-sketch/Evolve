@@ -40,3 +40,6 @@ We systematically evaluated our method on six public multivariate datasets with 
 <div style="text-align: center;">
     <img src="docs/main_results.png" alt="Evolve" style="zoom:80%;" />
 </div>
+
+## Supplemental Material
+Supplemental material is available in [`./Supplemental Material`](./Supplemental%20Material).
